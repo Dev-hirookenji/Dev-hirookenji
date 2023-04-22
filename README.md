@@ -5,7 +5,7 @@ I'm currently a graduating IT student from Polytechnic University of the Philipp
 
 * 🌍  I'm based in Quezon City, Philippines.
 * ✉️  You can contact me at [ferrer.markkenneth02@gmail.com](mailto:ferrer.markkenneth02@gmail.com)
-* 🧠  I'm learning I'm currently learning JavaScript and React.
+* 🧠  I'm currently learning JavaScript and React.
 * ⚡  Looking for an internship ATM
 
 ### Skills
