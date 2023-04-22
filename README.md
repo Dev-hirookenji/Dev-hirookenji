@@ -6,7 +6,7 @@ I'm currently a graduating IT student from Polytechnic University of the Philipp
 * 🌍  I'm based in Quezon City, Philippines.
 * ✉️  You can contact me at [ferrer.markkenneth02@gmail.com](mailto:ferrer.markkenneth02@gmail.com)
 * 🧠  I'm currently learning JavaScript and React.
-* ⚡  Currently a Web Developer intern at Visvis Travel in Tours using PHP and CodeIgniter for backend.
+* ⚡  Currently a Web Developer intern at Visvis Travel and Tours using PHP and CodeIgniter for backend.
 
 ### Skills
 
