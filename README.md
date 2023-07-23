@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Mark Kenneth Ferrer
 # 💫 About Me:
 🔭 I’m currently working on my personal portfolio<br>🤝 You can contact me at ferrer.markkenneth02@gmail.com<br>🌱 I’m currently learning TypeScript and React.js<br>💬 IT Fresh Graduate from Polytechnic University of the Philippines<br>⚡ Looking for a company that would help me to improve my development skills
-<br>
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<br><br>
+<img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hirookenji/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mark-kenneth-ferrer/) 
