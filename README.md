@@ -1,9 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mark Kenneth</h1>
-<p align="center">
-💫 About Me: <br><br>
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Mark Kenneth!](https://www.linkedin.com/in/khushikhan/)
+<img align="right" alt="Coder GIF" height=200 width=300 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
+
+### 💫 About Me: <br>
 🔭 I’m currently working on my personal portfolio<br>🤝 You can contact me at ferrer.markkenneth02@gmail.com<br>🌱 I’m currently learning TypeScript and React.js<br>💬 IT gradwaiting student from Polytechnic University of the Philippines<br>⚡ Looking for a company that would help me to improve my development skills
-<br><br>
-<img align="center" alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hirookenji/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mark-kenneth-ferrer/) 
@@ -14,8 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Dev-hirookenji&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev-hirookenji&theme=material-palenight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-hirookenji&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Dev-hirookenji&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
