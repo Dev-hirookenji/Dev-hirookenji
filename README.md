@@ -1,7 +1,7 @@
 ## Hi there, I'm [Kenneth!](https://www.linkedin.com/in/mark-kenneth-ferrer/) 👋 
 # 💫 About Me:
 🔭 I’m currently working on my personal portfolio<br>🤝 You can contact me at ferrer.markkenneth02@gmail.com<br>🌱 I’m currently learning TypeScript and React.js<br>💬 IT gradwaiting student from Polytechnic University of the Philippines<br>⚡ Looking for a company that would help me to improve my development skills
-<br><br>
+<br>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
 
 ## 🌐 Socials:
