@@ -1,4 +1,3 @@
-### Hi there 👋 I'm Mark Kenneth Ferrer
 # 💫 About Me:
 🔭 I’m currently working on my personal portfolio<br>🤝 You can contact me at ferrer.markkenneth02@gmail.com<br>🌱 I’m currently learning TypeScript and React.js<br>💬 IT Fresh Graduate from Polytechnic University of the Philippines<br>⚡ Looking for a company that would help me to improve my development skills
 <br><br>
