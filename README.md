@@ -1,5 +1,5 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Mark Kenneth!](https://www.linkedin.com/in/mark-kenneth-ferrer/) <hr>
-<img align="right" alt="Coder GIF" height=200 width=300 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Mark Kenneth!](https://www.linkedin.com/in/mark-kenneth-ferrer/)
+<img align="right" alt="Coder GIF" height=200 width=300 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/> <hr>
 
 ### 💫 About Me:
 🔭 I’m currently working on my personal portfolio<br>🤝 You can contact me at ferrer.markkenneth02@gmail.com<br>🌱 I’m currently learning TypeScript and React.js<br>💬 IT gradwaiting student from Polytechnic University of the Philippines<br>⚡ Looking for a company that would help me to improve my development skills <hr><br>
