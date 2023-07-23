@@ -1,4 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Mark Kenneth!](https://www.linkedin.com/in/khushikhan/)
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [Mark Kenneth!](https://www.linkedin.com/in/mark-kenneth-ferrer/)
 <img align="right" alt="Coder GIF" height=200 width=300 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif"/>
 
 ### 💫 About Me: <br>
